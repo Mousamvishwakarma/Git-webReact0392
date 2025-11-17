@@ -119,7 +119,7 @@ export default function Footer() {
                                     clip-rule="evenodd"
                                 />
                             </svg>
-                            <span className="sr-only">Twitter page</span>
+                            <span className="sr-only">Twitter  page</span>
                         </Link>
                         <Link to="#" className="text-gray-500">
                             <svg
